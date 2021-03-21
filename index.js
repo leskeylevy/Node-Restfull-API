@@ -2,7 +2,7 @@
  * Primary file for the api
  */
 
-// Dependencies
+// Dependencies I used the ES5 Version since I am yet to creat a packge.json for the entire project
 var http = require('http');
 var https = require('https');
 var url = require('url');
